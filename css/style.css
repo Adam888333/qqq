@@ -41,7 +41,7 @@ width: 700px;
 }
 .menu_img{
     
-    background-image: url(/img/asp_2.jpg);
+    background-image: url(../img/asp_2.jpg);
 height: 200px; 
 background-size: cover;
 }
@@ -59,7 +59,7 @@ color: rgb(67, 97, 67);
     }
 
     .img_podpis{
-        background-image: url(/img/1.png);
+        background-image: url(../img/1.png);
         height: 130px;
         background-repeat: no-repeat;
         background-size: ;
